@@ -1,6 +1,9 @@
-Python 3.13.6
-Libraries:
-- pandas
-- numpy
-- matplotlib
-- scipy
+Google Sheets
+
+fitur :
+1. Pivot Table
+2. sum
+3. counta
+4. aggregate function
+
+simple but powerful for analysis in google sheets
